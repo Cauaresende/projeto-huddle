@@ -36,10 +36,9 @@
     }
 
     footer {
-        margin-top: 20px;
-        margin-right: 50px;
-        
         display: flex;
-        justify-content: right;  
+        justify-content: right;
+        margin-right: 5%;
     }
+
 }
