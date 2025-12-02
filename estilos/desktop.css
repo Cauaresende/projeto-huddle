@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 1800px) {
+    main img {
+        margin-top: 20px;
+        width: 900px;
+    }
+
+    footer img {
+        width: 50px;
+    }
+}
